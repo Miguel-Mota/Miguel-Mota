@@ -1,6 +1,6 @@
 # 👨‍💻 Welcome to My Cyber Lair
 
-![Cybersecurity Banner](https://github.com/yourusername/yourusername/blob/main/banner.png)
+![Cybersecurity Banner](Cyber-Banner-DAU-Website.jpg)
 
 ## 🧠 About Me
 Hey there! I'm a passionate cybersecurity enthusiast, researcher, and builder of digital fortresses. From breaking into machines (ethically!) to building tools that defend them, I live at the intersection of offensive and defensive security.
